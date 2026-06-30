@@ -1,16 +1,30 @@
-## Hi there 👋
+# Marlene Melnyk | Velin Lingerie
 
-<!--
-**VelinLingerie/VelinLingerie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Static personal profile page for Marlene Melnyk, a Houston, Texas-based investor associated with Velin Lingerie.
 
-Here are some ideas to get you started:
+## Profile Details
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Name: Marlene Melnyk
+- Location: Houston, Texas
+- Age: 40
+- Profession: Investor
+- Height: 168 cm / 5'6"
+- Weight: 114 lb
+- Company: Velin Lingerie
+
+## Publish to GitHub Pages
+
+1. Upload this full folder to a GitHub repository.
+2. In GitHub, open **Settings > Pages**.
+3. Choose the `main` branch and root folder.
+4. Save and wait for GitHub Pages to provide the live website link.
+
+## Files
+
+- `index.html` - page content
+- `styles.css` - visual design
+- `script.js` - subtle scroll motion
+- `assets/investor-hero.png` - hero background
+- `assets/boutique-display.png` - boutique display image
+- `assets/private-atelier.png` - private atelier image
+- `assets/material-archive.png` - material archive image
