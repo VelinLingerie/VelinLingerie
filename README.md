@@ -24,7 +24,7 @@ Static personal profile page for Marlene Melnyk, a Houston, Texas-based investor
 - `index.html` - page content
 - `styles.css` - visual design
 - `script.js` - subtle scroll motion
-- `assets/investor-hero.png` - hero background
+- `assets/investor-hero.jpg` - hero background
 - `assets/boutique-display.png` - boutique display image
 - `assets/private-atelier.png` - private atelier image
 - `assets/material-archive.png` - material archive image
